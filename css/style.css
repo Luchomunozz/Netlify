@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+
+header{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: silver;
+    border-radius: 30px;
+    font-style: italic;
+    color:rgb(124, 11, 11);
+    height: 100px;
+    
+}
+
+body{
+    background-color: red;
+}
